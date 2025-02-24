@@ -1,6 +1,6 @@
 # KAT files for SNOVA Round 2
 
-This repository contains the offical KAT files for SNOVA as submitted to Round 2 of the NIST competition.
+This repository contains the official KAT files for SNOVA as submitted to Round 2 of the NIST competition.
 
 Note:
 The .rsp files of SNOVA_75_33_16_2_ESK and SNOVA_75_33_16_2_SHAKE_ESK are compressed as the original KAT files are over the file size limit of github.
